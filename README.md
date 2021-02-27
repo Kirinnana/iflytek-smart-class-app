@@ -14,7 +14,7 @@ github下载
 -
 [新版](https://github.com/Kirinnana/iflytek-smart-class-app/releases/tag/v2.0)<br>
 
-[老版](https://github.com/Kirinnana/iflytek-smart-class-app/releases/tag/v1.0)
+[老版](https://github.com/Kirinnana/iflytek-smart-class-app/releases/download/v1.0/smart.class.old.zip)
 
 百度网盘下载
 -
