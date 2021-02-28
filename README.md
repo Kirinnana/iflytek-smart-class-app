@@ -10,14 +10,14 @@ class new 是新版软件 class old是老版的软件<br>
 
 ## 下载
 
-蓝奏云下载(推荐)
-----
-[old]()
+### 蓝奏云下载(推荐)
+[old](https://wws.lanzous.com/b01zz1o6d)←点击<br>
 
-[new]()
+[new](https://wws.lanzous.com/b01zz1pzi)←点击<br>
 
-github下载
-----
+密码：2333
+
+### github下载
 [新版](https://github.com/Kirinnana/iflytek-smart-class-app/releases/download/v2.0/smart.class.new.zip)←点击<br>
 
 [老版](https://github.com/Kirinnana/iflytek-smart-class-app/releases/download/v1.0/smart.class.old.zip)←点击
