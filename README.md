@@ -22,8 +22,7 @@ class new 是新版软件 class old是老版的软件<br>
 
 [老版](https://github.com/Kirinnana/iflytek-smart-class-app/releases/download/v1.0/smart.class.old.zip)←点击
 
-百度网盘下载
-----
+### 百度网盘下载
 [链接](https://pan.baidu.com/s/1zNOWqWdm0dbyWkWBIClTQg)←点击<br>
 提取码:2229
 
