@@ -10,21 +10,12 @@ class new 是新版软件 class old是老版的软件<br>
 
 ## 下载
 
-### 蓝奏云下载(推荐)
-[old](https://wws.lanzous.com/b01zz1o6d)←点击<br>
+|  工具  | 蓝奏云(推荐) | github  | 百度网盘 |  
+|  ----  | ----   | ----  |----  |
+|老版|[链接](https://wws.lanzous.com/b01zz1o6d)|[链接](https://github.com/Kirinnana/iflytek-smart-class-app/releases/download/v1.0/smart.class.old.zip)|[链接](https://pan.baidu.com/s/1zNOWqWdm0dbyWkWBIClTQg)|
+|新版|[链接](https://wws.lanzous.com/b01zz1pzi)|[链接](https://github.com/Kirinnana/iflytek-smart-class-app/releases/download/v2.0/smart.class.new.zip)|[链接](https://pan.baidu.com/s/1zNOWqWdm0dbyWkWBIClTQg)|
+|提取码|2333|无|2229|
 
-[new](https://wws.lanzous.com/b01zz1pzi)←点击<br>
-
-密码：2333
-
-### github下载
-[新版](https://github.com/Kirinnana/iflytek-smart-class-app/releases/download/v2.0/smart.class.new.zip)←点击<br>
-
-[老版](https://github.com/Kirinnana/iflytek-smart-class-app/releases/download/v1.0/smart.class.old.zip)←点击
-
-### 百度网盘下载
-[链接](https://pan.baidu.com/s/1zNOWqWdm0dbyWkWBIClTQg)←点击<br>
-提取码:2229
 
 ## 帮助
   [刷机建议](https://github.com/Kirinnana/iflytek-smart-class-app/wiki#%E5%88%B7%E6%9C%BA%E5%BB%BA%E8%AE%AE)<br>
