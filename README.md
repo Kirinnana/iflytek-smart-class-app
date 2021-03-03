@@ -15,7 +15,7 @@ class new 是新版软件 class old是老版的软件<br>
 |老版|[链接](https://wws.lanzous.com/b01zz1o6d)|[链接](https://github.com/Kirinnana/iflytek-smart-class-app/releases/download/v1.0/smart.class.old.zip)|[链接](https://pan.baidu.com/s/1zNOWqWdm0dbyWkWBIClTQg)|
 |新版|[链接](https://wws.lanzous.com/b01zz1pzi)|[链接](https://github.com/Kirinnana/iflytek-smart-class-app/releases/download/v2.0/smart.class.new.zip)|[链接](https://pan.baidu.com/s/1zNOWqWdm0dbyWkWBIClTQg)|
 |提取码|2333|无|2229|
-
+点击链接即可跳转
 
 ## 帮助
   [刷机建议](https://github.com/Kirinnana/iflytek-smart-class-app/wiki#%E5%88%B7%E6%9C%BA%E5%BB%BA%E8%AE%AE)<br>
