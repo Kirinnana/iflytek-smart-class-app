@@ -19,5 +19,6 @@ class new 是新版软件 class old是老版的软件<br>
 点击链接即可跳转
 
 ## 帮助
+  [帮助中心]()
   [刷机建议](https://github.com/Kirinnana/iflytek-smart-class-app/wiki#%E5%88%B7%E6%9C%BA%E5%BB%BA%E8%AE%AE)<br>
-  [使用微课中心上传下载视频的方法](https://github.com/Kirinnana/iflytek-smart-class-app/wiki/%E4%BD%BF%E7%94%A8%E5%BE%AE%E8%AF%BE%E4%B8%AD%E5%BF%83%E4%B8%8A%E4%BC%A0%E4%B8%8B%E8%BD%BD%E8%A7%86%E9%A2%91%E7%9A%84%E6%96%B9%E6%B3%95)
+  [使用微课中心上传下载视频的方法](https://github.com/Kirinnana/iflytek-smart-class-app/wiki/%E5%85%B3%E4%BA%8E%E5%BE%AE%E8%AF%BE%E4%B8%AD%E5%BF%83#%E4%BD%BF%E7%94%A8%E5%BE%AE%E8%AF%BE%E4%B8%AD%E5%BF%83%E4%B8%8A%E4%BC%A0%E4%B8%8B%E8%BD%BD%E8%A7%86%E9%A2%91%E7%9A%84%E6%96%B9%E6%B3%95)
