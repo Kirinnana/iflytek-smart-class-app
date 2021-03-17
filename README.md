@@ -15,7 +15,7 @@
 |  ----  | ----   | ----  |----  |
 |老版|[链接](https://wws.lanzous.com/b01zz1o6d)|[链接](https://github.com/Kirinnana/iflytek-smart-class-app/releases/download/v1.0/smart.class.old.zip)|[链接](https://pan.baidu.com/s/1zNOWqWdm0dbyWkWBIClTQg)|
 |新版|[链接](https://wws.lanzous.com/b01zz1pzi)|[链接](https://github.com/Kirinnana/iflytek-smart-class-app/releases/download/v2.0/smart.class.new.zip)|[链接](https://pan.baidu.com/s/1zNOWqWdm0dbyWkWBIClTQg)|
-|Tch|[链接]()|[链接]()||
+|Tch|[链接](https://wws.lanzous.com/b0200r21i)|[链接]()||
 |提取码|2333|无|2229|
 
 点击链接即可跳转
