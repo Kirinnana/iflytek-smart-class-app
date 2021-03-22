@@ -9,6 +9,7 @@
 - `老版本`的`用户登入`不需要验证mac地址，可以直接登入<br>
 - 用户登入如果打不开，请给予储存权限。<br>
 - Tch是教师应用，在`畅言桌面`中打开，可以用自己账号登入。
+- 应用分享内有一些平板能用的修改应用
 ## 下载
 
 |  工具  | 蓝奏云(推荐) | github  | 百度网盘 |  
@@ -17,6 +18,7 @@
 |新版|[链接](https://wws.lanzous.com/b01zz1pzi)|[链接](https://github.com/Kirinnana/iflytek-smart-class-app/releases/download/v2.0/smart.class.new.zip)|[链接](https://pan.baidu.com/s/1zNOWqWdm0dbyWkWBIClTQg)|
 |Tch|[链接](https://wws.lanzous.com/b0200r21i)|[链接](https://github.com/Kirinnana/iflytek-smart-class-app/releases/tag/v3.0)||
 |学生桌面套件|[链接](https://wws.lanzous.com/b0200p1gf)|||
+|应用分享|[链接](https://wws.lanzous.com/b02019a3g)|||
 |提取码|2333|无|2229|
 
 点击链接即可跳转
