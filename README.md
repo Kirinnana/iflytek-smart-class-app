@@ -12,14 +12,14 @@
 - 应用分享内有一些平板能用的修改应用。
 ## 下载
 
-|  工具  | 蓝奏云(推荐) | github  | 百度网盘 |  
-|  ----  | ----   | ----  |----  |
-|老版|[链接](https://wws.lanzous.com/b01zz1o6d)|[链接](https://github.com/Kirinnana/iflytek-smart-class-app/releases/download/v1.0/smart.class.old.zip)|[链接](https://pan.baidu.com/s/1zNOWqWdm0dbyWkWBIClTQg)|
-|新版|[链接](https://wws.lanzous.com/b01zz1pzi)|[链接](https://github.com/Kirinnana/iflytek-smart-class-app/releases/download/v2.0/smart.class.new.zip)|[链接](https://pan.baidu.com/s/1zNOWqWdm0dbyWkWBIClTQg)|
+|  工具  | 蓝奏云(推荐) | github  | 
+|  ----  | ----   | ----  |
+|老版|[链接](https://wws.lanzous.com/b01zz1o6d)|[链接](https://github.com/Kirinnana/iflytek-smart-class-app/releases/download/v1.0/smart.class.old.zip)|
+|新版|[链接](https://wws.lanzous.com/b01zz1pzi)|[链接](https://github.com/Kirinnana/iflytek-smart-class-app/releases/download/v2.0/smart.class.new.zip)|
 |Tch|[链接](https://wws.lanzous.com/b0200r21i)|[链接](https://github.com/Kirinnana/iflytek-smart-class-app/releases/tag/v3.0)||
-|学生桌面套件|[链接](https://wws.lanzous.com/b0200p1gf)|||
-|应用分享|[链接](https://wws.lanzous.com/b02019a3g)|||
-|提取码|2333|无|2229|
+|学生桌面套件|[链接](https://wws.lanzous.com/b0200p1gf)||
+|应用分享|[链接](https://wws.lanzous.com/b02019a3g)||
+|提取码|2333|无|
 
 点击链接即可跳转
 
