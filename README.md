@@ -7,6 +7,7 @@
 - 大部分应用需要安装用户登入并登入后使用<br> 
 - 白板在老版本的压缩包中<br>
 - `老版本`的`用户登入`不需要验证mac地址，可以直接登入<br>
+- 用户登入如果打不开，请给予储存权限。<br>
 - Tch是教师应用，在`畅言桌面`中打开，可以用自己账号登入。
 ## 下载
 
@@ -15,6 +16,7 @@
 |老版|[链接](https://wws.lanzous.com/b01zz1o6d)|[链接](https://github.com/Kirinnana/iflytek-smart-class-app/releases/download/v1.0/smart.class.old.zip)|[链接](https://pan.baidu.com/s/1zNOWqWdm0dbyWkWBIClTQg)|
 |新版|[链接](https://wws.lanzous.com/b01zz1pzi)|[链接](https://github.com/Kirinnana/iflytek-smart-class-app/releases/download/v2.0/smart.class.new.zip)|[链接](https://pan.baidu.com/s/1zNOWqWdm0dbyWkWBIClTQg)|
 |Tch|[链接](https://wws.lanzous.com/b0200r21i)|[链接](https://github.com/Kirinnana/iflytek-smart-class-app/releases/tag/v3.0)||
+|学生桌面套件|[链接](https://wws.lanzous.com/b0200p1gf)|||
 |提取码|2333|无|2229|
 
 点击链接即可跳转
