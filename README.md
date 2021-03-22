@@ -29,6 +29,6 @@
   [使用微课中心上传下载视频的方法](https://github.com/Kirinnana/iflytek-smart-class-app/wiki/%E5%85%B3%E4%BA%8E%E5%BE%AE%E8%AF%BE%E4%B8%AD%E5%BF%83#%E4%BD%BF%E7%94%A8%E5%BE%AE%E8%AF%BE%E4%B8%AD%E5%BF%83%E4%B8%8A%E4%BC%A0%E4%B8%8B%E8%BD%BD%E8%A7%86%E9%A2%91%E7%9A%84%E6%96%B9%E6%B3%95new)`更新！`<br>
   [关于桌面](https://github.com/Kirinnana/iflytek-smart-class-app/wiki/%E5%85%B3%E4%BA%8E%E6%A1%8C%E9%9D%A2)`更新于3月22`
   
-
+## [更新日志](https://github.com/Kirinnana/iflytek-smart-class-app/blob/main/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97)
 ## 感谢
 [@jiangliu91](https://github.com/jiangliu91) 对新版本的提取及老版本的提供
