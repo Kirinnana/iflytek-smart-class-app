@@ -34,5 +34,9 @@
   [关于桌面](https://github.com/Kirinnana/iflytek-smart-class-app/wiki/%E5%85%B3%E4%BA%8E%E6%A1%8C%E9%9D%A2)`更新于3月22`
   
 ## [更新日志](https://github.com/Kirinnana/iflytek-smart-class-app/blob/main/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97)
+23
+更新白板，学了英语为最新。<br>
+为新版白板添加最近任务。<br>
+增加新的刷机方法。<br>
 ## 感谢
 [@jiangliu91](https://github.com/jiangliu91) 对新版本的提取及老版本的提供
