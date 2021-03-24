@@ -1,6 +1,6 @@
 # iflytek-smart-class-app
 科大讯飞 畅言智慧课堂  应用软件<br>
-gitee镜像（https://gitee.com/the-wind-of-summer/iflytek-smart-class-app）
+gitee镜像（https://gitee.com/the-wind-of-summer/iflytek-smart-class-app#smart-class-app）
 ## 说明
 
 - class new 是新版软件 class old是老版的软件。<br>
