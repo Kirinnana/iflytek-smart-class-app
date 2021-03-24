@@ -8,7 +8,7 @@ gitee镜像（https://gitee.com/the-wind-of-summer/iflytek-smart-class-app）
 - 白板在老版本的压缩包中。<br>
 - `老版本`的`用户登入`不需要验证mac地址，可以直接登入。<br>
 - 用户登入如果打不开，请给予`储存权限`。<br>
-- 如无法登入请删除领创平板管理或桌面套件。或采用[4.2.5.3]版本的用户登入
+- 如无法登入请删除领创平板管理或桌面套件。或采用[4.2.5.3](https://github.com/Kirinnana/iflytek-smart-class-app/releases/download/v1.0/login_4.2.5.3.zhkt.apk)版本的用户登入
 - Tch是教师应用，在`畅言桌面`中打开，可以用自己账号登入。
 - 应用分享内有一些平板能用的修改应用。
 - update内有最新的白板、学了英语以及老版的应用商店等应用。
@@ -17,7 +17,7 @@ gitee镜像（https://gitee.com/the-wind-of-summer/iflytek-smart-class-app）
 
 |  工具  | 蓝奏云(推荐) | github  | 
 |  ----  | ----   | ----  |
-|老版|[链接](https://wws.lanzous.com/b01zz1o6d)|[链接](https://github.com/Kirinnana/iflytek-smart-class-app/releases/download/v1.0/smart.class.old.zip)|
+|老版|[链接](https://wws.lanzous.com/b01zz1o6d)|[链接](https://github.com/Kirinnana/iflytek-smart-class-app/releases/tag/v1.0)|
 |新版|[链接](https://wws.lanzous.com/b01zz1pzi)|[链接](https://github.com/Kirinnana/iflytek-smart-class-app/releases/download/v2.0/smart.class.new.zip)|
 |Tch|[链接](https://wws.lanzous.com/b0200r21i)|[链接](https://github.com/Kirinnana/iflytek-smart-class-app/releases/tag/v3.0)|
 |Update|[链接](https://wws.lanzous.com/b0201dxza)|[链接](https://github.com/Kirinnana/iflytek-smart-class-app/releases/download/appupdate/smart.app.update.zip)|
