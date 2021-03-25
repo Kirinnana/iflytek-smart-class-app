@@ -8,7 +8,8 @@ gitee镜像（https://gitee.com/the-wind-of-summer/iflytek-smart-class-app#smart
 - 白板在老版本的压缩包中。<br>
 - `老版本`的`用户登入`不需要验证mac地址，可以直接登入。<br>
 - 用户登入如果打不开，请给予`储存权限`。<br>
-- 如无法登入请删除领创平板管理或桌面套件。或采用[4.2.5.3](https://github.com/Kirinnana/iflytek-smart-class-app/releases/download/v1.0/login_4.2.5.3.zhkt.apk)版本的用户登入
+- 如无法登入请删除领创平板管理或桌面套件。或采用[4.2.5.3](https://github.com/Kirinnana/iflytek-smart-class-app/releases/download/v1.0/login_4.2.5.3.zhkt.apk)版本的用户登入。
+- 想使用桌面的请移步[关于桌面](https://github.com/Kirinnana/iflytek-smart-class-app/wiki/%E5%85%B3%E4%BA%8E%E6%A1%8C%E9%9D%A2#%E6%A1%8C%E9%9D%A2%E7%9A%84%E4%BD%BF%E7%94%A8)
 - Tch是教师应用，在`畅言桌面`中打开，可以用自己账号登入。
 - 应用分享内有一些平板能用的修改应用。
 - update内有最新的白板、学了英语以及老版的应用商店等应用。
