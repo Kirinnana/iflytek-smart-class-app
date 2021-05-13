@@ -18,12 +18,12 @@ gitee镜像（https://gitee.com/the-wind-of-summer/iflytek-smart-class-app#smart
 
 |  工具  | 蓝奏云(推荐) | github  | 
 |  ----  | ----   | ----  |
-|老版|[链接](https://wws.lanzous.com/b01zz1o6d)|[链接](https://github.com/Kirinnana/iflytek-smart-class-app/releases/tag/v1.0)|
-|新版|[链接](https://wws.lanzous.com/b01zz1pzi)|[链接](https://github.com/Kirinnana/iflytek-smart-class-app/releases/download/v2.0/smart.class.new.zip)|
-|Tch|[链接](https://wws.lanzous.com/b0200r21i)|[链接](https://github.com/Kirinnana/iflytek-smart-class-app/releases/tag/v3.0)|
-|Update|[链接](https://wws.lanzous.com/b0201dxza)|[链接](https://github.com/Kirinnana/iflytek-smart-class-app/releases/download/appupdate/smart.app.update.zip)|
-|学生桌面套件|[链接](https://wws.lanzous.com/b0200p1gf)||
-|应用分享|[链接](https://wws.lanzous.com/b02019a3g)||
+|老版|[链接](https://wws.lanzoui.com/b01zz1o6d)|[链接](https://github.com/Kirinnana/iflytek-smart-class-app/releases/tag/v1.0)|
+|新版|[链接](https://wws.lanzoui.com/b01zz1pzi)|[链接](https://github.com/Kirinnana/iflytek-smart-class-app/releases/download/v2.0/smart.class.new.zip)|
+|Tch|[链接](https://wws.lanzoui.com/b0200r21i)|[链接](https://github.com/Kirinnana/iflytek-smart-class-app/releases/tag/v3.0)|
+|Update|[链接](https://wws.lanzoui.com/b0201dxza)|[链接](https://github.com/Kirinnana/iflytek-smart-class-app/releases/download/appupdate/smart.app.update.zip)|
+|学生桌面套件|[链接](https://wws.lanzoui.com/b0200p1gf)||
+|应用分享|[链接](https://wws.lanzoui.com/b02019a3g)||
 |提取码|2333|无|
 
 点击链接即可跳转
